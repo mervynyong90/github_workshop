@@ -1,3 +1,7 @@
 hi im mervyn
 
+<<<<<<< HEAD
 i like fried rice
+=======
+i dont like to exercise
+>>>>>>> conflict-branch
